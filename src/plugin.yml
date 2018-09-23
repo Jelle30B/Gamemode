@@ -7,8 +7,12 @@ commands:
     description: Sets you in gamemode creative!
   gms:
     description: Sets you in gamemode surival!
+  gma:
+    description: Sets you in gamemode adventure!
 permissions:
   Gamemode.Survival:
     description: Gives permission to '/gms'!
   Gamemode.Creative:
     description: Gives permission to '/gmc'!
+  Gamemode.Adventure:
+    description: Gives permission to '/gma'!
